@@ -1,0 +1,4 @@
+# 🗄️Configurando uma Instância de Banco de Dados no Azure
+Durante a criação de uma instância de banco de dados SQL no Azure, é possível definir configurações importantes já na etapa inicial, como o tamanho de armazenamento e a redundância de backup, que garante a recuperação dos dados em caso de falhas.
+
+A interface é semelhante à da criação de máquinas virtuais, com campos explicativos e acesso direto à documentação oficial, o que facilita a configuração, mesmo para quem está começando. Também é possível definir a localização do servidor e o modo de autenticação. Essas opções contribuem para a disponibilidade, segurança e adequação do banco de dados às necessidades do projeto desde o início.
